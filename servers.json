@@ -1,0 +1,18 @@
+{
+    "url": "intosins.github.io/sklauncher_ultimate_utility/servers.json",
+    "time": "N/A",
+    "time_server_1": "N/A",
+    "time_server_2": "N/A",
+    "servers": {
+        "stable": {
+            "server_1": {
+                "status": "down",
+                "message": "Servers are not working right now."
+            },
+            "server_2": {
+                "status": "down",
+                "message": "Servers are not working right now."
+            }
+        }
+    }
+}

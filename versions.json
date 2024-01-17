@@ -1,0 +1,10 @@
+{
+    "url": "intosins.github.io/sklauncher_ultimate_utility/versions.json",
+    "sklauncher": {
+        "versions": {
+            "mirror": {
+                "latest": "https://skmedix.pl/bin/_/3.2/x64/SKlauncher-3.2.exe"
+            }
+        }
+    }
+}
