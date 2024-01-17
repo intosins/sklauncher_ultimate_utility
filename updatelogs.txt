@@ -1,3 +1,9 @@
+v1.0 build 109-110
+- Improved sync with server assets.
+- Fixed some bugs.
+- Fixed favicon.ico not loading from server due to <function get_license_from_server at 0x00000180ABF38720> error.
+- You no longer need to store files on your computer, all assets such as images are stored on server.
+
 v1.0 build 108
 - Fixed small UI bug with buttons.
 
