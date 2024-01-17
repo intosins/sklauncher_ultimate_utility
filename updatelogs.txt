@@ -1,0 +1,20 @@
+v1.0 build 108
+- Fixed small UI bug with buttons.
+
+v1.0 build 107
+- Removed small white pattern from main labels background.
+- Rescripted check for Java installation.
+- Working on other languages support.
+- Improved performance in some parts of code.
+- Updated files structure.
+- Added some text in settings tab.
+- Fixed bugs.
+
+v1.0 build 106
+- Fixed a bug with the 'Send anonymous data' button, which occurred when it triggered the Java installation check and SKlauncher installation check.
+- Introduced a new user interface (UI).
+- Added an 'Update Logs' tab.
+- Fixed bugs.
+
+v1.0 build 1-105
+- Development builds containing the old UI and numerous bugs.
