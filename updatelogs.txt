@@ -1,3 +1,27 @@
+v1.0 build 110-v1.1 build 132
+- Massive improvements of server cache.
+- Added mods handler (dev).
+- Improved interaction with utility UI.
+- Removed white background from background of images due to rendering bug.
+- Uploaded more images to server.
+- Replaced blank server html image.
+- Added memory handler to utility.
+- Added interaction with modrinth API (dev).
+- Added versions to mods (1.20.4-1.7.2).
+- Added forge loader handler.
+- Added filters for mods.
+- Improved sync with server assets and cache.
+- Improved fetching of some images.
+- Converted some utility files such as .ico's to .png.
+- Added more font sizes to utility.
+- Fixed sizing of frames and UI position in mods.
+- Fixed render of search entry.
+- Added forge loader warning text.
+- Added check for internet connection.
+- Now utility collecting less anonymous information about user.
+- Now utility supports third-party libraries.
+- Worked on UI speed, it appears to be on 5% faster then in previous builds.
+
 v1.0 build 109-110
 - Improved sync with server assets.
 - Fixed some bugs.
